@@ -1,0 +1,3 @@
+## Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique esse conceito fundamental nesse desafio. Para isso, os pilares da OO são devidamente formalizados: Abstração, Encapsulamento, Herança e Polimorfismo. Neste desafio, você poderá desenvolver sua capacidade de abstração com um problema real e implementar as evoluções que achar interessantes wink
+
+## nesse projeto eu usei encapsulamento para poder deixar privado alguns atributos, eu usei a herança para uma classe poder acessar metodos de um elemento pai, usei tambem a abstração eu deixei uma classe abstraida assim eu poderia somenter usar ela se ela esrtivesse ligada ao uma classe filha por isto foi necessario a herança, e por ultimo eu usei o polimorfismo para poder sobreescrever um metodos.
